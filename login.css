@@ -1,0 +1,21 @@
+body{
+background:url(img/bc.jfif);
+	background-size: cover;
+	background-attachment:fixed;
+	
+	}
+#header2{
+width:600px;
+height:120px;
+background:url(img/DSG.PNG);
+}
+#main2{
+width:600px;
+min-height:400px;
+background:url(img/trs.png);
+padding:
+}
+#conta2{
+width:600px;
+margin:0 auto;
+}
